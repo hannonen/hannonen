@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hannonen
-- 👀 I’m interested in front-end development, ux-design ans agile
-- 🌱 I’m currently learning react / node / vue
+- 👀 I’m interested in front-end development, ux-design and agile
+- 🌱 I’m currently learning react / node / tailwind
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me: it@dariahannonen.com
+- 📫 How to reach me: contact@ruomi.io
 
 <!---
 hannonen/hannonen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
