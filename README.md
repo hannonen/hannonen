@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hannonen
 - 👀 I’m interested in front-end development, ux-design and agile
 - 🌱 I’m currently learning react / node / tailwind / go
-- 💞️ I’m looking to collaborate on web development projects
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me: contact@ruomi.io
 
 <!---
